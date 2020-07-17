@@ -80,6 +80,8 @@ body {
 
   #saveButton{
     margin: 0 auto;
+    font-size: 200%;
+    text-align: center;
   }
   
   #saveButton:hover {
